@@ -1,3 +1,4 @@
+
 <img src="./assets/uPIMulator_logo.png" width="1000">
 
 # 📖 Introduction
@@ -67,3 +68,5 @@ Samsung Electronics.
 
 ## 📔 Citation
 Bongjoon Hyun, Taehun Kim, Dongjae Lee, and Minsoo Rhu, "Pathfinding Future PIM Architectures by Demystifying a Commercial PIM Technology". IEEE International Symposium on High-Performance Computer Architecture, March 2024.
+=======
+# uPIM
